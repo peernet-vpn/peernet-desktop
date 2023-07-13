@@ -1,0 +1,29 @@
+{
+  "name": "peernet-desktop",
+  "version": "1.0.0",
+  "description": "Decentralized VPN",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron .",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peernet-vpn/peernet-desktop.git"
+  },
+  "keywords": [
+    "VPN",
+    "Decentralized",
+    "Superfluid",
+    "electron"
+  ],
+  "author": "peernet-vpn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peernet-vpn/peernet-desktop/issues"
+  },
+  "homepage": "https://github.com/peernet-vpn/peernet-desktop#readme",
+  "devDependencies": {
+    "electron": "^25.3.0"
+  }
+}
